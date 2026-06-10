@@ -176,15 +176,6 @@ A self-reflective RAG agent built as a **LangGraph state machine**: routes each 
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamedkhattab02&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
 
 ---
 
